@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tarea_Progra_II_Luis_Juárez.iml" filepath="$PROJECT_DIR$/.idea/modules/Tarea_Progra_II_Luis_Juárez.iml" group="Tarea_Progra_II_Luis_Juárez" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="Tarea Progra II Luis Juárez/app" />
+    </modules>
+  </component>
+</project>
